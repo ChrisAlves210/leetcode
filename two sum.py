@@ -22,3 +22,7 @@ class Solution(object):
             
         # Return an empty list if no solution is found (though LeetCode guarantees one)
         return []
+
+
+
+### Not as easy as I thought since comeing back to coding for a while took me about 10 to 15 minutes to do. What would be the array of numbers and the target to test this solution? ####
